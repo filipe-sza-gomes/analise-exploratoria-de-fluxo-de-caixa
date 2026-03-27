@@ -52,12 +52,12 @@ Etapas da análise:
 
 ## Principais insights
 
-- **1. Um aumento de 20 dias no prazo médio de recebimento está associado, aproximadamente, a uma redução de 93.3% no fluxo de caixa operacional.**
+- **1. Um aumento de aproximadamente 20 dias no prazo médio de recebimento está associado a uma redução, em média, de cerca de R$ 3.000 no fluxo de caixa.**
 ![alt text](image.png)
 Quanto maior o tempo que a empresa leva para receber pagamentos de clientes, menor tende a ser a disponibilidade de caixa. Esse resultado indica que políticas de crédito mais flexíveis, que aumentam o prazo de pagamento concedido aos clientes, podem gerar pressões sobre a liquidez da empresa.
 
 - **2. Períodos com maior taxa de inadimplência apresentam deterioração do fluxo de caixa, indicando que a recuperação de crédito é um fator relevante para a saúde financeira da empresa.**
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 - **3. O fluxo de caixa acompanha o nível de atividade da empresa, com períodos de maior volume de vendas apresentando geração de caixa proporcionalmente maior.**
 ![alt text](image-2.png)
